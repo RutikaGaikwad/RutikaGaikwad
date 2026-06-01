@@ -1,7 +1,5 @@
 🦄 ABOUT ME:
 
-• How to reach me: bhumika.iosdeveloper@gmail.com
-• ! How to contact me: https://bhumikaios.com
 - 👋 Hi, I’m @RutikaGaikwad.
 - 👀 I’m interested in iOS app development, and open-source projects.
 - 🌱 I’m currently learning Swift programming and improving my iOS skills.
